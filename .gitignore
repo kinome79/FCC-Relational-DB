@@ -1,2 +1,5 @@
 node_modules
 .DS_Store
+.freeCodeCamp
+.vscode
+learn-celestial-bodies-database
