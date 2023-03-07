@@ -6,5 +6,5 @@ This folder contains the files needed for submittion of the fCC Relational Datab
 
 ## Files Contained Here: 
 
-salon.sh - a bash script file containing the appointment schedule application
-salon.sql - a database dump file for the salon database created and maintained by the app
+* salon.sh - a bash script file containing the appointment schedule application
+* salon.sql - a database dump file for the salon database created and maintained by the app
